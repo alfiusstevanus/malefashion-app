@@ -1,0 +1,11 @@
+Akun Pembeli 1:
+email: sb-e47ipi21870958@personal.example.com
+pass: 3DjbupC<
+
+Akun Pembeli 2:
+email: sb-hjw43b21871023@personal.example.com
+pass: <*+t}Q>0
+
+Akun Penjual:
+email: sb-qtg5z21926213@business.example.com
+pass: 6oH[d/%-
